@@ -55,7 +55,6 @@ body {
   
   .logo-title {
     font-family: "Raleway", sans-serif;
-    font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -123,8 +122,6 @@ body {
   }
   .address-link {
     font-family: inherit;
-    font-style: normal;
-    font-weight: 400;
     font-size: 16px;
     line-height: var(--tipical-line-height);
     letter-spacing: 0.02em;
@@ -191,7 +188,6 @@ body {
   .product-section {
   }
   .body-title {
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -210,17 +206,7 @@ body {
     background: var(--white-color);
   }
   
-  .body-title {
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: var(--title-color);
-  }
-  
-  .team-list {
+   .team-list {
   }
   .team-item {
     background-color: #ffffff;
